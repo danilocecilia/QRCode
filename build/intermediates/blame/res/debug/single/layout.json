@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\dcecilia\\Downloads\\QRCodeReaderView-master\\QRCodeReaderView-master\\QR-ReaderExample\\qRReaderExample\\build\\intermediates\\res\\merged\\debug\\layout\\detail_activity.xml",
+        "source": "C:\\Users\\dcecilia\\Downloads\\QRCodeReaderView-master\\QRCodeReaderView-master\\QR-ReaderExample\\qRReaderExample\\src\\main\\res\\layout\\detail_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\dcecilia\\Downloads\\QRCodeReaderView-master\\QRCodeReaderView-master\\QR-ReaderExample\\qRReaderExample\\build\\intermediates\\res\\merged\\debug\\layout\\qrcode_generate.xml",
+        "source": "C:\\Users\\dcecilia\\Downloads\\QRCodeReaderView-master\\QRCodeReaderView-master\\QR-ReaderExample\\qRReaderExample\\src\\main\\res\\layout\\qrcode_generate.xml"
+    },
+    {
+        "merged": "C:\\Users\\dcecilia\\Downloads\\QRCodeReaderView-master\\QRCodeReaderView-master\\QR-ReaderExample\\qRReaderExample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_decoder.xml",
+        "source": "C:\\Users\\dcecilia\\Downloads\\QRCodeReaderView-master\\QRCodeReaderView-master\\QR-ReaderExample\\qRReaderExample\\src\\main\\res\\layout\\activity_decoder.xml"
+    }
+]
